@@ -1,19 +1,18 @@
 # cookie-clicker-helper
 simple script for cookie clicker
- ===========================
-
+ 
          Known bugs
 
- ===========================
+
  Turn on defocus, or the game might freeze when returned to focus after more than 2 minutes
  Krumblor/Santa clicks might not register (the effects are still active) while Cookie Clicker Helper is active
  You can't really pop wrinklers manually if Cookie Clicker Helper is active
 
- ===========================
+
 
          Patch notes
 
- ===========================
+
  First version 1.0
  Fixed crashing in 1.1
  Now 2x faster in 1.2

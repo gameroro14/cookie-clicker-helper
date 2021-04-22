@@ -1,5 +1,7 @@
 # cookie-clicker-helper
 simple script for cookie clicker
+
+CLICK "RAW" TO SEE THE PATCH NOTES PROPERLY!
  
          Known bugs
 
